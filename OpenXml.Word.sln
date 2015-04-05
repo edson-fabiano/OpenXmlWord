@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenXml.Word.Extensions", "OpenXml.Word.Extensions\OpenXml.Word.Extensions.csproj", "{E27DC6D3-8C4A-4414-8C03-56B7066FC76A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenXml.Word.Tests", "OpenXml.Word.Tests\OpenXml.Word.Tests.csproj", "{4C7301A4-C5F8-4A84-9C42-46BA0A8B900C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E27DC6D3-8C4A-4414-8C03-56B7066FC76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27DC6D3-8C4A-4414-8C03-56B7066FC76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27DC6D3-8C4A-4414-8C03-56B7066FC76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27DC6D3-8C4A-4414-8C03-56B7066FC76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7301A4-C5F8-4A84-9C42-46BA0A8B900C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7301A4-C5F8-4A84-9C42-46BA0A8B900C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7301A4-C5F8-4A84-9C42-46BA0A8B900C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7301A4-C5F8-4A84-9C42-46BA0A8B900C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
