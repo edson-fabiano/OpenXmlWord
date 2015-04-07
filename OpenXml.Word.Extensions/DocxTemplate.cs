@@ -9,7 +9,7 @@ using DocumentFormat.OpenXml.Packaging;
 
 namespace OpenXml.Word.Extensions
 {
-    class DocxTemplate
+    public static class DocxTemplate
     {
         public static void CriarNovoDocumento(string caminhoTemplate,string caminhoArquivoDestino, Dictionary<String, String> substituicoes)
         {
